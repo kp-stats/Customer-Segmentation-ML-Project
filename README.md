@@ -5,11 +5,10 @@
     <img src="cust_seg.jfif" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Credit Risk Analysis</h3>
+  <h3 align="center">Customer Segmentationu</h3>
 
   <p align="center">
     
-    <br />
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -37,9 +36,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<li><h2> Problem Statement</h2> </li>
-<p></p>Customer Personality Analysis provides a detailed understanding of a company's ideal customers, helping businesses adjust products to meet the specific needs, behaviors, and concerns of different customer types. By identifying and targeting specific customer segments, businesses can tailor their marketing efforts more effectively, focusing on the groups most likely to buy their products, thereby saving resources and increasing efficiency.</p>
-<li><h2> Description</h2> </li>
+<h3> Problem Statement</h3> 
+<p>Customer Personality Analysis provides a detailed understanding of a company's ideal customers, helping businesses adjust products to meet the specific needs, behaviors, and concerns of different customer types. By identifying and targeting specific customer segments, businesses can tailor their marketing efforts more effectively, focusing on the groups most likely to buy their products, thereby saving resources and increasing efficiency.</p>
+<h3> Description</h3> 
 <p>
 This project aims to perform Customer Personality Analysis to help businesses understand their customers better. By analyzing customer data, we can identify distinct customer segments based on their purchasing behavior, demographic information, and responses to marketing campaigns. This analysis allows businesses to tailor their products and marketing strategies to meet the specific needs and preferences of different customer segments.</p>
 
