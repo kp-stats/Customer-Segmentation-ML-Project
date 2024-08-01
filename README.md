@@ -53,29 +53,9 @@ This project aims to perform Customer Personality Analysis to help businesses un
 
 1) Kartik Pandey - [Linkedin](https://www.linkedin.com/in/kpstats/) - https://www.linkedin.com/in/kpstats/
 
-Project Link: [https://github.com/kp-stats/Credit-Risk-ML-Project/]([https://github.com/kp-stats/Credit-Risk-ML-Project/](https://github.com/kp-stats/Credit-Risk-ML-Project/)
-
 2) Tejaswi Raj - [Linkedin](https://www.linkedin.com/in/tejaswi-fin) - https://www.linkedin.com/in/tejaswi-fin
 
-Project Link: [https://github.com/kp-stats/Credit-Risk-ML-Project/]([https://github.com/kp-stats/Credit-Risk-ML-Project/](https://github.com/kp-stats/Credit-Risk-ML-Project/)
-
 3) Surbhi Sharma - [Linkedin](https://www.linkedin.com/in/s-s-stats/) - https://www.linkedin.com/in/s-s-stats/
-
-Project Link: [https://github.com/kp-stats/Credit-Risk-ML-Project/]([https://github.com/kp-stats/Credit-Risk-ML-Project/](https://github.com/kp-stats/Credit-Risk-ML-Project/)
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-You can acknowledge any individual, group, institution or service.
-* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
 
 ## Thank you
 
