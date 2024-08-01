@@ -5,33 +5,17 @@
     <img src="cust_seg.jfif" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">README Template</h3>
+  <h3 align="center">Credit Risk Analysis</h3>
 
   <p align="center">
-    A README template to jumpstart your projects!
+    
     <br />
-    <a href="https://github.com/catiaspsilva/README-template/blob/main/images/docs.txt"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#usage">View Demo</a>
-    ·
-    <a href="https://github.com/catiaspsilva/README-template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/catiaspsilva/README-template/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -53,13 +37,18 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<li><h2> Problem Statement</h2> </li>
+<p></p>Customer Personality Analysis provides a detailed understanding of a company's ideal customers, helping businesses adjust products to meet the specific needs, behaviors, and concerns of different customer types. By identifying and targeting specific customer segments, businesses can tailor their marketing efforts more effectively, focusing on the groups most likely to buy their products, thereby saving resources and increasing efficiency.</p>
+<li><h2> Description</h2> </li>
+<p>
+This project aims to perform Customer Personality Analysis to help businesses understand their customers better. By analyzing customer data, we can identify distinct customer segments based on their purchasing behavior, demographic information, and responses to marketing campaigns. This analysis allows businesses to tailor their products and marketing strategies to meet the specific needs and preferences of different customer segments.</p>
 
-In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
-
-[Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
-
-You can include tables or images to summarize your results when and if appropriate.
-
+<p><h4>The main objectives of this project are:</h4>
+<li>To segment customers into different groups based on their purchasing behavior and demographic characteristics.</li>
+<li>To analyze the spending patterns and income levels of each customer segment.</li>
+<li>To evaluate the performance of past marketing campaigns and identify the response of different customer segments.</li>
+<li>To develop targeted marketing strategies to improve customer engagement and increase sales.</li>
+<li>The project involves data preprocessing, exploratory data analysis, clustering, and profiling of customers. The insights gained from this analysis can help businesses optimize their marketing efforts and improve customer satisfaction.</li></p>
 <!-- GETTING STARTED -->
 ## Getting Started
 
