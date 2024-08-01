@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/catiaspsilva/README-template">
+  <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
     <img src="images/gators.jpg" alt="Logo" width="150" height="150">
   </a>
 
