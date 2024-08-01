@@ -6,7 +6,7 @@
     <img src="images/gators.jpg" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">README Template</h3>
+  <h3 align="center">Credit Risk Analysis/h3>
 
   <p align="center">
     A README template to jumpstart your projects!
