@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
-    <img src="images/gators.jpg" alt="Logo" width="150" height="150">
+    <img src="cust_seg.jfif" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">README Template</h3>
